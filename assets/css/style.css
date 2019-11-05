@@ -1,0 +1,40 @@
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)) , url('../images/hero_1.jpg');
+    min-height: 600px;
+  background-position: center;
+ 
+} 
+.text{
+    color: grey;
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top:25%;
+}
+.hero{
+    font-weight: 300;
+    color: #364d59;
+    font-size: 2rem;
+    position: relative;
+}
+.uppercase{
+    background-color: #dedffe;
+}
+.card:hover{
+    background-color: #2e3192;
+    color:white;
+}
+.unique.card{
+   color: black;
+}
+.unique.card:hover{
+  color: white;
+}
+.tabs .indicator{
+    background-color: green;
+}
+.tabs .tab a:focus, .tabs .tabs a:focus:active{
+    background-color: transparent;
+}
+.page-footer{
+    background-color: #060c26;
+}
